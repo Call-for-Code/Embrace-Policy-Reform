@@ -1,142 +1,211 @@
-# Diverse representation
+# Policy reform
 
 Technology has the power to drive action. And right now, a call to action is needed to eradicate racism. **Black lives matter.**
 
 We recognize technology alone cannot fix hundreds of years of racial injustice and inequality, but when we put it in the hands of the Black community and their supporters, technology can begin to bridge a gap. To start a dialogue. To identify areas where technology can help pave a road to progress.
 
-This project is an effort to leverage technology to prevent, detect, and remediate bias and misrepresentation in the workplace, products, and society. For corporations to succeed, it is critical to have Black representation at every level.
+This project is an effort to utilize technology to analyze, inform, and develop policy to reform the workplace, products, public safety, and legislation.
 
 This is one of three open source projects underway as part of the [Call for Code Emb(race) Spot Challenge](https://github.com/topics/embrace-call-for-code) led by contributors from IBM and Red Hat.
 
-## Contents
+## Contribute to this effort
 
-1. [How you can take part](#how-you-can-take-part)
-1. [Engage](#engage)
-   - [Overview](#overview)
-   - [Resources](#resources)
-   - [Theme team leaders](#theme-team-leaders)
-1. [Envision](#envision)
-   - [The idea](#the-idea)
-   - [How it works](#how-it-works)
-   - [Diagrams](#diagrams)
-   - [Getting started](#getting-started)
-1. [Contribute](#contribute)
-   - [Contributing](#contributing)
-   - [License](#license)
+1. **Engage**
+   * Understand the [problem statements](#problem-statements) in this solution starter GitHub repository.   
+   * Connect with colleagues in [Slack](SLACK.md) to join one of the teams working on solutions to this problem.
 
-## How you can take part
+2. **Envision**
+   * Imagine the measurable end result of a technology innovation for one of the problem statements.
+   * Plot a path from the current situation to that outcome. You can use [Mural](https://www.mural.co/) and [Slack](SLACK.md) to collaborate.
 
-1. [Engage](#engage)
-   - Understand the issue in this solution starter repository
-   - Connect with others in the Slack channel: #emb-race-cfc-challenge
+3. **Contribute**
+   * IBMers: [Learn](https://w3.ibm.com/developer/opensource/learn/certify/) about open source and [certify](https://yourlearning.ibm.com/activity/EL01-00001160) before contributing.
+   * [Open issues](CONTRIBUTING.md#opening-issues), [submit pull requests](CONTRIBUTING.md#submitting-pull-requests), or [edit the wiki](CONTRIBUTING.md#editing-the-wiki) for this repository.
 
-2. [Envision](#envision)
-   - Imagine the measurable end result of the technology innovation
-   - Plot a path from the current situation to that outcome
+## Problem statements
 
-3. [Contribute](#contribute)
-   - Learn about how to take part in open source at IBM
-   - Open issues, submit pull requests, or edit the wiki in GitHub
+1. [Citizens don't have a straightforward way of knowing what or how policies and regulations impact them](#problem-statement-1)
+2. [Voting may be impossible or challenging due to burdensome local processes](#problem-statement-2)
+3. [Citizens and lawmakers have difficulty identifying implicit bias](#problem-statement-3)
 
+## Problem statement 1
 
-## Engage
+Concerned and impacted citizens don't have a straightforward way of knowing what or how policies and regulations impact them or what they can do in response.
 
-### Overview
+### Hills (who, what, and wow)
 
-#### What's the problem?
+1. Citizens are aware of policy that is being considered that is highly impactful to them, without needing to follow every vote.
 
-The global climate crisis is inextricably linked to water. Higher temperatures and more extreme weather events are projected to affect the availability and distribution of rainfall, snowmelt, river flows, and groundwater, and further deteriorate water quality. Low-income communities, already the most vulnerable to any threats to water supply, are likely to be the worst affected.
+2. Citizens are able to understand the specific impact of proposed policy on them without being a legal expert.
 
-Read the [UN policy on climate change and water](https://www.unwater.org/publications/un-water-policy-brief-on-climate-change-and-water/) and understand how you can make a difference.
+3. Citizens are able to share opinions so they can influence policy decisions before they are finalized.
 
-#### How can technology help?
+4. Citizens can easily ascertain the voting record themes or trend of their elected officials and political candidates without prior knowledge of who they are. (May overlap with group #3)
 
-Whether it's third-party open source projects or IBM Cloud services, technologies like data analytics, Internet of Things, artificial intelligence, and blockchain can help address global environmental challenges such as water quantity and quality. Using water more efficiently will reduce greenhouse gases from treatment systems. 
+5. Policy makers have visibility into how diverse citizenry will be impacted by multiple variations of a proposed policy.
+
+### How tech can help
+
+* [FiscalNote](https://fiscalnote.com/products/cq-federal) provides people with a overview of who their elected officials are from local to federal levels.
+* [GovTrack.us](https://www.govtrack.us/congress/votes/116-2020/s128) gives overview on how each federal legislator voted on any bills passed or rejected in Congress. 
+
+### Resources
+
+#### Datasets
+
+_At this time, datasets are provided for reference only. Do not include dataset information in any solutions until further notice._
+
+* [Congress Voter Rolls ](https://www.congress.gov/roll-call-votes)
+* [Voting records for Congress](https://ballotpedia.org/Lifetime_voting_records_of_United_States_Senators_and_Representatives)
+* [Tracking Congress In The Age Of Trump](https://projects.fivethirtyeight.com/congress-trump-score/)
+
+#### User personas and stakeholders
+
+1. Citizens
+   1. Citizens who are an under represented minorities
+   2. Citizens who have access to information via different means
+   3. Citizens of different age groups and different socio-economic statuses
+   4. Citizens with disabilities
+
+2. Non-affiliated Designated Agency/Entity
+   1. Community Groups
+   2. Citizen Advocates
+
+3. Policy Makers
+   1. Elected Officials
+   2. Representatives
+   3. "Publisher" in Government printing office
+   4. Elected official staff (legal, non-legal)
+
+## Problem statement 2
+
+Voting may be impossible or challenging due to burdensome local processes or regulations, which may be worsened by socioeconomic and public health challenges.
+
+### Hills (who, what, and wow)
+
+1. Voters are able to get to the correct polling station, quickly and affordably according to their own schedule and needs
+
+2. Voters can view and understand the impact of their vote on every relevant piece of legislation and impact to their community
+
+3. Voters are able to equip themselves with the necessary information andto vote according to the most up to date, local requirements
+
+### How tech can help
+
+* [https://www.ibm.com/case-studies/legalmation](https://www.ibm.com/case-studies/legalmation)
+* [Build a secure e-voting app](https://developer.ibm.com/technologies/blockchain/patterns/how-to-create-a-secure-e-voting-application-on-hyperledger-fabric/)
+* [Create a fair evoting application to ensure correct election results with Hyperledger Fabric and IBM Blockchain Platform](https://github.com/IBM/evote)
+* [Finding unregistered Voters using Senzing](https://www.nytimes.com/2018/11/05/technology/unregistered-voter-rolls.html)
 
 ### Resources
 
 #### Publications
-- [Resource 1](https://www.unisdr.org/we/inform/publications/53213)
-- [Resource 2](https://www.youtube.com/watch?v=mRTlS3ZfljM)
-- [Resource 3](https://www.worldbank.org/en/news/press-release/2018/06/18/building-back-better-how-to-cut-natural-disaster-losses-by-a-third)
+
+* [Voting in Jails](https://www.sentencingproject.org/publications/voting-in-jails/)
+* [Hidden history ofthe war on Voting](https://learning.oreilly.com/library/view/the-hidden-history/9781523087808/)
+* [Data Analysis of Congressional Data Using IBM Watson](https://www.cs.rit.edu/usr/local/pub/GraduateProjects/2165/pgl5711/Report.pdf)
+* [Online voter registration increases the capture of the eligible of electorate](https://morningconsult.com/opinions/how-technology-can-eradicate-voter-suppression-and-expand-voter-access/)
 
 #### Documents
 
-- [Document 1](https://www.unisdr.org/we/inform/terminology)
-- [Document 2](https://www.unisdr.org/files/54970_techguidancefdigitalhr.pdf)
-- [Document 3](https://www.unisdr.org/files/54970_techguidancefdigitalhr.pdf)
+* [US Voting and Elections](https://www.usa.gov/voting)
+* [Georgia’s Botched Election Draws Condemnations, Claims Of Voter Suppression](https://www.forbes.com/sites/andrewsolender/2020/06/09/georgias-botched-election-draws-condemnations-claims-of-voter-suppression/#7dba03e345ec)
+* [US Election Dates & Deadlines](https://www.usvotefoundation.org/vote/state-elections/state-election-dates-deadlines.htm)
+* [Gerrymandering](https://www.newyorker.com/tag/gerrymandering)
+* [IBM Internet Pioneer Reveals Why Millions of Votes Don't Get Counted and How Internet Voting Can Strengthen Our Democracy](https://finance.yahoo.com/news/ibm-internet-pioneer-reveals-why-130000615.html)
 
 #### Datasets
 
-- [Dataset 1](http://www.masdap.mw/)
-- [Dataset 2](http://www.masdap.mw/layers/osm:osm_landusages)
-- [Dataset 3](https://www.preventionweb.net/countries/mwi/data/)
+_At this time, datasets are provided for reference only. Do not include dataset information in any solutions until further notice._
 
-#### Technology
+* [Redistricting Data Datasets](https://www.census.gov/programs-surveys/decennial-census/data/datasets/rdo.html)
+* [Government, Voting & Polling Data](https://hls.harvard.edu/library/research/find-a-database/government-voting-polling-data/)
+* [Surveys and data](https://www.eac.gov/research-and-data/datasets-codebooks-and-surveys)
+* [Voting Records](https://www.govtrack.us/congress/votes)
+* [Campaign finance data](https://www.fec.gov/data/)
+* [Partisan Gerrymandering Historical Data](https://planscore.org/#!2016-ushouse)
+* [State-by-State Redistricting Reform: The Local Routes](http://gerrymander.princeton.edu/)
 
-- [Technology 1](https://developer.ibm.com/patterns/generate-insights-from-multiple-data-sources-using-watson-studio/)
-- [Technology 2](https://developer.ibm.com/patterns/transform-load-big-data-csv-files-db2-zos-database/)
-- [Technology 3](https://developer.ibm.com/blogs/call-for-code-finalist-pd3r-uses-artificial-intelligence-for-retrofitting/)
+#### User personas and stakeholders
 
-### Theme team leaders
+1. Personas
+   1. New Voters
+   2. Elderly Voters
+   3. Disabled Voters
+   4. Lower income Voters
+   5. Minority Voters
+   6. Gen Z and Millennial Voters
+   7. Polling staff
 
-* Person 1 - Role
-* Person 2 - Role
-* Person 3 - Role
-* [Additional contributors]()
+2. Stakeholders
+   1. Federal and State Election Offices
+   2. Federal and State Legislators
+   3. Federal and State Government
+   4. Candidates
+   5. Voting rights advocates and foundation
+   6. Political Parties
 
-## Envision
+## Problem statement 3
 
-### The idea
+Citizens and lawmakers have difficulty identifying implicit bias within current or proposed policies, which makes it difficult to assess potential negative impacts of those new policies.
 
-The team tackled the challenges that come in the process of rebuilding after the impact of a disaster. Research has shown that rapid yet well-informed and well-orchestrated rebuilding measures can help to massively reduce the negative impact of disasters on the life, well-being, and health of individuals. An effective and efficient system of accessing information and contributing feedback in a way that can improve the foundation of future decisions is key to this cycle.
+### Hills (who, what, and wow)
 
-In order to leverage the benefits of such a system it must be designed to allow for simple ingestion of information, data, images along with a user-friendly way of drawing insights from it. The team created a platform-based solution that aggregates and analyzes historical and current data related to infrastructure, agriculture, weather, utility and more. It can then be used to derive key insights for future response and reconstruction plans. 
+1. Nonprofits and watchdogs can review policy implications so as to prioritize items ahead of major policy decisions.
 
-### How it works
+2. Voters can identify state/federal/local policies that show bias before they are enacted or identify older policies that should be reformed.
 
-The goal of this solution is to provide a better feedback loop that empowers local municipalities, small business owners, and members of the community, especially the most vulnerable. The team approached this problem by looking how a solution could benefit three potential end users who need access to information about the current situation, resources available to them, and how to better prepare next time:
+3. Voters can identify lawmakers that have voted on policies that show bias against a group.
 
-1. A disaster victim, who seeks information on how to improve her community by best matching her skills to volunteer opportunities.
-1. A small business owner who needs to open her shop as soon as possible to restart cash flow.
-1. A local elected government official, who needs to generate damage assessments and rebuilding recommendations quickly.
+### How tech can help
 
-By combining cloud-native infrastructure with event-driven data processing and intelligent modeling, this solution could help predict when and where a disaster may strike next and extrapolate the impact. Furthermore, it could allow stakeholders to derive the most promising course of action with the greatest improvement to plans and processes possible.
+* TBD
 
-### Diagrams
+### Resources
 
-![Challenge 1 Architecture](/images/Embrace-Diverse-Representation-Architecture.png?raw=true "Diverse Representation Architecture")
+#### Publications
 
-This solution starter idea combines machine learning models with real-time information to get users the information they need to take action quickly.
+* [How tech can do better](https://docs.google.com/document/d/1tHwy12hPUZKw618pSb5aBhu30CVYOOWpH7e0342emmM/edit#heading=h.2sdftibqea52)
+* [Diversity in Policy](https://www.blackrock.com/corporate/about-us/social-impact/advancing-racial-equity)
+* [Campaign Zero -ending police violence in America](https://www.joincampaignzero.org/#vision)
+* [Families Against Mandatory Minimums](https://famm.org/our-work/states-where-we-are-working/)
 
-1. By managing a collection of models about how better to restore infrastructure, the system could store historical data, use that to predict trends, and therefore provide recommendations in the form of an assessment.
-1. These models could then be referenced by various applications to collect information about the current situation and provide end users with the assessments.
-1. By rating the success of the recommendation, users can provide information that will help others in turn during future situations to build back better.
+#### Documents
 
-### Getting started
+* [Using behavioural science to improve how governments make decisions (UK)](https://www.instituteforgovernment.org.uk/sites/default/files/publications/BIT%20Behavioural%20Government%20Report.pdf)
 
-#### Technology 1
+#### Datasets
 
-Description here
+_At this time, datasets are provided for reference only. Do not include dataset information in any solutions until further notice._
 
-#### Technology 2
+* [Stop and Search](https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/policing/stop-and-search/latest#download-the-data)
 
-Description here
+#### Examples
 
-#### Technology 3
+* Cannot identify implicit Bias in following Laws
+  * Crime Bill of 1994 - The Violent Crime Control and Law Enforcement Act of 1994, H.R. 3355, Pub.L. 103–322 is an Act of Congress dealing with crime and law enforcement - exacerbated mass incarceration
+  * Stop and Frisk policy in New York (not legislation) - allowed police to stop individuals with little cause, and as a result of institutional bias, black and brown people were disproportionately targeted. Went against dueprocess and provided almost no cause for police to be able to stop and search your person
+  * Controlled Substance and Controlled Substance Import and Export Acts, the provisions punishing the presence of a firearm in connection with a crime of violence or drug trafficking offense - example of mandatory minimum sentencing -meaning they have to sentence a minimum of certain years for certain crimes, which can lead to over sentencing
+* Mandatory minimum sentencing - unduly impacts black and brown people for 'minor' offenses
+* Charge stacking - even if you are cleared of one charge, other minor charges can affect the time you receive
 
-Description here
+#### User personas
 
-### Contribute
+1. Voters
+   1. Low Information Voters -people not typically engaged in the policy making process\
+   2. Disproportionately affected populations
+   3. General voting population
 
-#### Contributing
+2. Organizations
+   1. Non-profit staff engaged in this work (BLM, NAACP, Southern Poverty Law Center)
 
-This solution starter kit has been initiated by a core leadership team during a Design Thinking session in June 2020, but it is intended to be a collaborative effort to bring technology to bear on an area where it can make an immediate and lasting impact.
+3. Elected Officials
+   1. Federal/State/Local elected officials
+   2. Elected official advisors/staffs
 
-As part of the Call for Code Emb(race) Challenge, we call on the the IBM and Red Hat community to guide the future of this solution towards an open source project that can be put into use at IBM and made available to the larger world.
+## Support
 
-Contribution details are in the [CONTRIBUTING.md](CONTRIBUTING.md) document. Common questions are in the [SUPPORT.md](SUPPORT.md) file. But in a nutshell, you can contribute by opening issues to spark discussions, open pull requests to submit code or documentation changes, or create pages in the wiki.
+Find help on the [Support](SUPPORT.md) page.
 
-#### License
+## License
 
 This solution starter is made available under the [Apache 2 License](LICENSE).
