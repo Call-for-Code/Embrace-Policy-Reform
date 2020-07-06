@@ -1,4 +1,4 @@
-# Emb(race): Policy reform
+# Emb(race): Policy and Legislation Reform
 
 Technology has the power to drive action. And right now, a call to action is needed to eradicate racism. **Black lives matter.**
 
