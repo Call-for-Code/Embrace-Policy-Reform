@@ -13,8 +13,7 @@ in all your interactions with the project and its community.
 In order to open issues, submit pull requests, or edit the wiki you'll need a
 [GitHub account](https://github.com/join). Whether you use a personal email
 address or an IBM address, you can then 
-[link it back to your IBM-internal GitHub Enterprise account]
-(https://gh-user-map.dal1a.cirrus.ibm.com/).
+[link it back to your IBM-internal GitHub Enterprise account](https://gh-user-map.dal1a.cirrus.ibm.com/).
 
 ## Opening issues
 
