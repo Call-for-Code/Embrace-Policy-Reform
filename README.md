@@ -73,7 +73,7 @@ by multiple variations of a proposed policy.
 
 * [FiscalNote] provides people with a overview of who their elected officials
 are from local to federal levels.
-* [GovTrack.us]gives overview on how each federal legislator voted on any
+* [GovTrack.us] gives overview on how each federal legislator voted on any
 bills passed or rejected in Congress. 
 
 ### Resources
@@ -85,7 +85,7 @@ dataset information in any solutions until further notice._
 
 * [Congress Voter Rolls]
 * [Voting records for Congress][records]
-* [Tracking Congress In The Age Of Trump][tracking]
+* [Tracking Congress In The Age Of Trump][tracking congress]
 
 #### User personas and stakeholders
 
@@ -244,14 +244,23 @@ Find help on the [Support](SUPPORT.md) page.
 This solution starter is made available under the [Apache 2 License](LICENSE).
 
 [challenge]: https://github.com/topics/embrace-call-for-code
+
 [Learn]: https://w3.ibm.com/developer/opensource/learn/certify/
+
 [certify]: https://yourlearning.ibm.com/activity/EL01-00001160
+
 [FiscalNote]: https://fiscalnote.com/products/cq-federal
+
 [GovTrack.us]: https://www.govtrack.us/congress/votes/116-2020/s128
+
 [Congress Voter Rolls]: https://www.congress.gov/roll-call-votes
+
 [records]: https://ballotpedia.org/
 Lifetime_voting_records_of_United_States_Senators_and_Representatives
-[tracking]: https://projects.fivethirtyeight.com/congress-trump-score/
+
+[tracking congress]: https://projects.fivethirtyeight.com/congress-trump-score/
+
 [LegalMation]: https://www.ibm.com/case-studies/legalmation
+
 [evoting app]: https://developer.ibm.com/technologies/blockchain/patterns/
 how-to-create-a-secure-e-voting-application-on-hyperledger-fabric/
