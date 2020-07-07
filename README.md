@@ -1,63 +1,91 @@
 # Emb(race): Policy and Legislation Reform
 
-Technology has the power to drive action. And right now, a call to action is needed to eradicate racism. **Black lives matter.**
+Technology has the power to drive action. And right now, a call to action is
+needed to eradicate racism. **Black lives matter.**
 
-We recognize technology alone cannot fix hundreds of years of racial injustice and inequality, but when we put it in the hands of the Black community and their supporters, technology can begin to bridge a gap. To start a dialogue. To identify areas where technology can help pave a road to progress.
+We recognize technology alone cannot fix hundreds of years of racial injustice
+and inequality, but when we put it in the hands of the Black community and
+their supporters, technology can begin to bridge a gap. To start a dialogue.
+To identify areas where technology can help pave a road to progress.
 
-This project is an effort to utilize technology to analyze, inform, and develop policy to reform the workplace, products, public safety, and legislation.
+This project is an effort to utilize technology to analyze, inform, and
+develop policy to reform the workplace, products, public safety, and
+legislation.
 
-This is one of three open source projects underway as part of the [Call for Code Emb(race) Spot Challenge](https://github.com/topics/embrace-call-for-code) led by contributors from IBM and Red Hat.
+This is one of three open source projects underway as part of the 
+[Call for Code Emb(race) Spot Challenge][challenge] led by contributors from
+IBM and Red Hat.
 
 ## Contribute to this effort
 
 1. **Engage**
-   * Understand the [problem statements](#problem-statements) in this solution starter GitHub repository.   
-   * Connect with colleagues in [Slack](SLACK.md) to join one of the teams working on solutions to this problem.
+   * Understand the [problem statements](#problem-statements) in this
+solution starter GitHub repository.
+   * Connect with colleagues in [Slack](SLACK.md) to join one of the teams
+working on solutions to this problem.
 
 2. **Envision**
-   * Imagine the measurable end result of a technology innovation for one of the problem statements.
-   * Plot a path from the current situation to that outcome. You can use [Mural](https://www.mural.co/) and [Slack](SLACK.md) to collaborate.
+   * Imagine the measurable end result of a technology innovation for one of
+the problem statements.
+   * Plot a path from the current situation to that outcome. You can use
+[Mural](https://www.mural.co/) and [Slack](SLACK.md) to collaborate.
 
 3. **Contribute**
-   * IBMers: [Learn](https://w3.ibm.com/developer/opensource/learn/certify/) about open source and [certify](https://yourlearning.ibm.com/activity/EL01-00001160) before contributing.
-   * [Open issues](CONTRIBUTING.md#opening-issues), [submit pull requests](CONTRIBUTING.md#submitting-pull-requests), or [edit the wiki](CONTRIBUTING.md#editing-the-wiki) for this repository.
+   * IBMers: [Learn] about open source and [certify] before contributing.
+   * [Open issues](CONTRIBUTING.md#opening-issues), 
+[submit pull requests](CONTRIBUTING.md#submitting-pull-requests), or 
+[edit the wiki](CONTRIBUTING.md#editing-the-wiki) for this repository.
 
 ## Problem statements
 
-1. [Citizens don't have a straightforward way of knowing what or how policies and regulations impact them](#problem-statement-1)
-2. [Voting may be impossible or challenging due to burdensome local processes](#problem-statement-2)
-3. [Citizens and lawmakers have difficulty identifying implicit bias](#problem-statement-3)
+1. [Citizens don't have a straightforward way of knowing what or how policies
+and regulations impact them](#problem-statement-1)
+2. [Voting may be impossible or challenging due to burdensome local
+processes](#problem-statement-2)
+3. [Citizens and lawmakers have difficulty identifying implicit
+bias](#problem-statement-3)
 
 ## Problem statement 1
 
-Concerned and impacted citizens don't have a straightforward way of knowing what or how policies and regulations impact them or what they can do in response.
+Concerned and impacted citizens don't have a straightforward way of knowing
+what or how policies and regulations impact them or what they can do in
+response.
 
 ### Hills (who, what, and wow)
 
-1. Citizens are aware of policy that is being considered that is highly impactful to them, without needing to follow every vote.
+1. Citizens are aware of policy that is being considered that is highly
+impactful to them, without needing to follow every vote.
 
-2. Citizens are able to understand the specific impact of proposed policy on them without being a legal expert.
+2. Citizens are able to understand the specific impact of proposed policy on
+them without being a legal expert.
 
-3. Citizens are able to share opinions so they can influence policy decisions before they are finalized.
+3. Citizens are able to share opinions so they can influence policy decisions
+before they are finalized.
 
-4. Citizens can easily ascertain the voting record themes or trend of their elected officials and political candidates without prior knowledge of who they are. (May overlap with group #3)
+4. Citizens can easily ascertain the voting record themes or trend of their
+elected officials and political candidates without prior knowledge of who
+they are. (May overlap with group #3)
 
-5. Policy makers have visibility into how diverse citizenry will be impacted by multiple variations of a proposed policy.
+5. Policy makers have visibility into how diverse citizenry will be impacted
+by multiple variations of a proposed policy.
 
 ### How tech can help
 
-* [FiscalNote](https://fiscalnote.com/products/cq-federal) provides people with a overview of who their elected officials are from local to federal levels.
-* [GovTrack.us](https://www.govtrack.us/congress/votes/116-2020/s128) gives overview on how each federal legislator voted on any bills passed or rejected in Congress. 
+* [FiscalNote] provides people with a overview of who their elected officials
+are from local to federal levels.
+* [GovTrack.us]gives overview on how each federal legislator voted on any
+bills passed or rejected in Congress. 
 
 ### Resources
 
 #### Datasets
 
-_At this time, datasets are provided for reference only. Do not include dataset information in any solutions until further notice._
+_At this time, datasets are provided for reference only. Do not include
+dataset information in any solutions until further notice._
 
-* [Congress Voter Rolls ](https://www.congress.gov/roll-call-votes)
-* [Voting records for Congress](https://ballotpedia.org/Lifetime_voting_records_of_United_States_Senators_and_Representatives)
-* [Tracking Congress In The Age Of Trump](https://projects.fivethirtyeight.com/congress-trump-score/)
+* [Congress Voter Rolls]
+* [Voting records for Congress][records]
+* [Tracking Congress In The Age Of Trump][tracking]
 
 #### User personas and stakeholders
 
@@ -79,19 +107,24 @@ _At this time, datasets are provided for reference only. Do not include dataset 
 
 ## Problem statement 2
 
-Voting may be impossible or challenging due to burdensome local processes or regulations, which may be worsened by socioeconomic and public health challenges.
+Voting may be impossible or challenging due to burdensome local processes or
+regulations, which may be worsened by socioeconomic and public health
+challenges.
 
 ### Hills (who, what, and wow)
 
-1. Voters are able to get to the correct polling station, quickly and affordably according to their own schedule and needs
+1. Voters are able to get to the correct polling station, quickly and
+affordably according to their own schedule and needs
 
-2. Voters can view and understand the impact of their vote on every relevant piece of legislation and impact to their community
+2. Voters can view and understand the impact of their vote on every relevant
+piece of legislation and impact to their community
 
-3. Voters are able to equip themselves with the necessary information andto vote according to the most up to date, local requirements
+3. Voters are able to equip themselves with the necessary information andto
+vote according to the most up to date, local requirements
 
 ### How tech can help
 
-* [https://www.ibm.com/case-studies/legalmation](https://www.ibm.com/case-studies/legalmation)
+* [LegalMation]
 * [Build a secure e-voting app](https://developer.ibm.com/technologies/blockchain/patterns/how-to-create-a-secure-e-voting-application-on-hyperledger-fabric/)
 * [Create a fair evoting application to ensure correct election results with Hyperledger Fabric and IBM Blockchain Platform](https://github.com/IBM/evote)
 * [Finding unregistered Voters using Senzing](https://www.nytimes.com/2018/11/05/technology/unregistered-voter-rolls.html)
@@ -209,3 +242,16 @@ Find help on the [Support](SUPPORT.md) page.
 ## License
 
 This solution starter is made available under the [Apache 2 License](LICENSE).
+
+[challenge]: https://github.com/topics/embrace-call-for-code
+[Learn]: https://w3.ibm.com/developer/opensource/learn/certify/
+[certify]: https://yourlearning.ibm.com/activity/EL01-00001160
+[FiscalNote]: https://fiscalnote.com/products/cq-federal
+[GovTrack.us]: https://www.govtrack.us/congress/votes/116-2020/s128
+[Congress Voter Rolls]: https://www.congress.gov/roll-call-votes
+[records]: https://ballotpedia.org/
+Lifetime_voting_records_of_United_States_Senators_and_Representatives
+[tracking]: https://projects.fivethirtyeight.com/congress-trump-score/
+[LegalMation]: https://www.ibm.com/case-studies/legalmation
+[evoting app]: https://developer.ibm.com/technologies/blockchain/patterns/
+how-to-create-a-secure-e-voting-application-on-hyperledger-fabric/
