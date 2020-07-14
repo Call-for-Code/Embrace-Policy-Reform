@@ -5,6 +5,10 @@ change you wish to make via an [issue](issues) or via Slack in the
 [#emb-race-cfc-challenge](https://slack.com/app_redirect?channel=emb-race-cfc-challenge) 
 channel. Minor issues can simply be addressed by sending by a pull request.
 
+If you are an IBM employee, please ensure you have completed your [Open Source 
+Participation Guidelines 
+certification](https://w3.ibm.com/developer/opensource/contribute/snippets/).
+
 Please note we have a [Code of Conduct](CODE_OF_CONDUCT.md), please follow it 
 in all your interactions with the project and its community.
 
@@ -13,13 +17,20 @@ in all your interactions with the project and its community.
 In order to open issues, submit pull requests, or edit the wiki you'll need a
 [GitHub account](https://github.com/join). Whether you use a personal email
 address or an IBM address, you can then link it back to your 
-[IBM-internal GitHub Enterprise account][internal]
+[IBM-internal GitHub Enterprise account][internal].
+
+If you don't have a GitHub account, and only want to propose an idea, you can 
+use [this form to create an issue on your behalf](http://callforcode.org/idea).
 
 ## Opening issues
 
 Issues are for suggesting and discussing changes to this solution starter. 
 You don't have to be technical to add your thoughts here. 
-[You can suggest a change, add a view point, or spark a discussion](issues).
+[You can suggest a change, add a view point, or spark a 
+discussion](../../issues).
+
+If you don't have a GitHub account, and only want to propose an idea, you can 
+use [this form to create an issue on your behalf](http://callforcode.org/idea).
 
 ## Submitting pull requests
 
@@ -29,9 +40,9 @@ the concrete change.
 
 ## Editing the wiki
 
-You are also free to [provide documentation or notes through the wiki](wiki).
-The changes there can be merged into this repository directly, or they may
-serve as outside documentation.
+You are also free to [provide documentation or notes through the 
+wiki](../../wiki).The changes there can be merged into this repository 
+directly, or they may serve as outside documentation.
 
 ## Examples
 
