@@ -85,6 +85,38 @@ they are. (May overlap with group #3)
 5. Policy makers have visibility into how diverse citizenry will be impacted
 by multiple variations of a proposed policy.
 
+### Teams working on this problem
+
+#### Team Fix Politics
+
+| Role                 | Contact               |
+| -------------------- | --------------------- |
+| Product Manager      | Nikhil Raja           |
+| User Researcher      | Mao Vang-Corne        |
+| Content SME          | Denise Knorr          |
+| Designer             | Debra Scott           |
+| Technical Architect  | Osai O Osaigbovo      |
+| Developer<br>        | Tony Pearson<br>Bethany Morgan |
+| Tester               | Thomas N Adams        |
+| Generalist           | Oiza Dorgu            |
+| Data Scientist       |                       |
+| Other                | Lungelo SIkobi        |
+
+#### Team TRUTH
+
+| Role                 | Contact               |
+| -------------------- | --------------------- |
+| Product Manager      | Sharon Osahon         |
+| User Researcher      | Kimberly Cassidy      |
+| Content SME          | Frank Madden          |
+| Designer             | Stephanie Daher       |
+| Technical Architect  | Boz Handy Bosma       |
+| Developer            | Peter Ihlenfeldt<br>Joe Konathapally<br>Khadija Al-Selini<br>Bimsara Pilapitiya |
+| Tester               |                       |
+| Generalist           | Michelle Esselen      |
+| Data Scientist       |                       |
+| Other                |                       |
+
 ### How tech can help
 
 * [FiscalNote](https://fiscalnote.com/products/cq-federal) provides people
@@ -141,6 +173,23 @@ piece of legislation and impact to their community
 
 3. Voters are able to equip themselves with the necessary information and
 to vote according to the most up to date, local requirements
+
+### Teams working on this problem
+
+#### Team 1
+
+| Role                 | Contact                   |
+| -------------------- | ------------------------- |
+| Product Manager      | Alexandria Leggett        |
+| User Researcher      | Hafsa Razzak<br>Ricky Ellison |
+| Content SME          | Denise Knorr              |
+| Designer             | Latonya Austin            |
+| Technical Architect  | Andrea L Lucas            |
+| Developer            | Gerald Mitchell<br>Bimsara Pilapitiya<br>David Nixon |
+| Tester               |                           |
+| Generalist           | Tofunmi Akinwale<br>Chris Stefano<br>Yolanda W Rabun |
+| Data Scientist       |                           |
+| Other                | Alexandra Devine          |
 
 ### How tech can help
 
@@ -229,6 +278,21 @@ they are enacted or identify older policies that should be reformed.
 
 3. Voters can identify lawmakers that have voted on policies that show bias
 against a group.
+
+#### Team 1
+
+| Role                 | Contact     |
+| -------------------- | ----------- |
+| Product Manager      |                         |
+| User Researcher      |                         |
+| Content SME          | Alexandra Devine        |
+| Designer             |                         |
+| Technical Architect  |                         |
+| Developer            |                         |
+| Tester               | Sri Muralidharan        |
+| Generalist           | Anjelica Dortch         |
+| Data Scientist       |                         |
+| Other                | Yesenia Salazar         |
 
 ### How tech can help
 
